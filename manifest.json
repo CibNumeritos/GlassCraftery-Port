@@ -1,0 +1,37 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "[BP] Cib's GlassCraftery",
+        "description": "This is a port of SrMagico's GlassCraftery mod for Minecraft: Java edition 1.16/1.18 made by CibNumeritos!\nTake a look at the curseforge page: \n https://www.curseforge.com/minecraft/mc-mods/glass-craftery",
+        "uuid": "5899ab3b-a8df-4a34-a4d9-8df28f13c019",
+        "min_engine_version": [
+            1,
+            19,
+            60
+        ],
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "Data module",
+            "type": "data",
+            "uuid": "82ae0cf0-d6c5-40d2-98d7-06845fcadcd8",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "metadata": {
+        "authors": [
+            "SrMagico",
+            "CibNumeritos"
+        ],
+        "url": "https://www.curseforge.com/minecraft/mc-mods/glass-craftery"
+    }
+}
