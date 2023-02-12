@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "[BP] GlassCraftery",
+        "description": "",
+        "uuid": "5d29fa55-beac-4d52-b064-30bfc626dfe2",
+        "min_engine_version": [
+            1,
+            19,
+            60
+        ],
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "description": "",
+            "uuid": "89bdaef3-d8d4-450a-8370-b6593871b7c2",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
