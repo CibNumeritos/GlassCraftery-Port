@@ -1,0 +1,37 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "[RP] Cib's GlassCraftery",
+        "description": "This is the resource pack of the SrMagico's GlassCraftery mod for Minecraft: Java edition 1.16/1.18 port!",
+        "uuid": "f8b0777e-f67d-4497-b3ef-917d9ac5685d",
+        "min_engine_version": [
+            1,
+            10,
+            0
+        ],
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "Resources module",
+            "type": "resources",
+            "uuid": "4e6da244-8c2b-4db8-b2bd-a0d4dbb3bc9e",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "metadata": {
+        "authors": [
+            "SrMagico",
+            "CibNumeritos"
+        ],
+        "url": "https://www.curseforge.com/minecraft/mc-mods/glass-craftery"
+    }
+}
