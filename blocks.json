@@ -1,0 +1,6 @@
+{
+	"wiki:custom_glass": {
+		"textures": "retro_glass",
+		"sound": "glass"
+	}
+}
